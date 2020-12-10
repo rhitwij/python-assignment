@@ -20,10 +20,9 @@ Thanks.
 
 Face_reco_lib- This is a ipynb file including full Working code of facial recognition using face_recognition library. 
 Here you may see an error at the end of the code state permission denied. this is due to jypeter upgraded version after downgrade your jypeter notebook this code works completely fine.
-Remember this libraries needs dlib package to be installed first then only you can install face_recognition librarie. 
+Remember this library needs dlib package to be installed first then only you can install face_recognition library. 
 This also requires a GPU to work fast you consider using Google colab. But Google colab only works upto 12 hrs so i faced GPU times out a lot of time. Currently my GPU times out and it's
 Taking more time to run on jypeter notebook.
 
 Thanks.
-
 
