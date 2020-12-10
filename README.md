@@ -12,7 +12,7 @@ This zip file includes full code of my project with a video for better explanati
 Working-
 First you have to train the model.
 Second save the trained model in a json file.
-Third import the Jason file in the main code where open cv is used for vision. I used haar cascade classifier for face detection.
+Third import the Json file in the main code where open cv is used for vision. I used haar cascade classifier for face detection.
 Fourth install streamlit and import in the same code to run this web application on your Chrome browser.
 
 Thanks.
